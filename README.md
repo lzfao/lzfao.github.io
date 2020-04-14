@@ -9,3 +9,9 @@ eatou aprendendo a programar em:
 
 - Java
 - C
+
+## Hobbies
+
+- Video games
+- Ver séries
+- Jogar futebol
