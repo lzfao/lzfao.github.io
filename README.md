@@ -9,7 +9,7 @@ estou aprendendo a programar em:
 
 - Javascript
 - Node
--React Native
+- React Native
 
 ## Hobbies
 
